@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-website-using-sass-flex-and-grid-mobile-first-U-QN9IE6B)
+- Live Site URL: [live site URL here](https://costivoicu.github.io/Testimonials-grid-section/)
 
 ## My process
 
